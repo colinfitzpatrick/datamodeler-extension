@@ -44,7 +44,8 @@ DATAMODELER_PATH/datamodeler/configuration/bundles.info
 
 and add
 
-``` com.theriom.ExampleExtension,11.1.1,../datamodeler/extensions/com.theriom.ExampleExtension.jar,4,false
+```
+com.theriom.ExampleExtension,11.1.1,../datamodeler/extensions/com.theriom.ExampleExtension.jar,4,false
 ```
 
 * Build and Deploy
